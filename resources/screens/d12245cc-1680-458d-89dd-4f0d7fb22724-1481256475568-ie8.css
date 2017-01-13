@@ -1,0 +1,42 @@
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-PasswordTextField_1 INPUT {
+  font-family: Arial;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Line_4 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Line_5 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-LoginButton {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=69) ;
+  filter: alpha(opacity=69) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Image_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Title {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

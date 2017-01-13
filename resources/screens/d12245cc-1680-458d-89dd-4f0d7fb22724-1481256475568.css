@@ -1,0 +1,248 @@
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #backgroundBox {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-attachment: scroll;
+  background-image: url('../../images/12ec0ee5-7a5f-4944-a90b-54bfd12c5ef7.png');
+  opacity: 0.67;
+  position: absolute;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-UserName_1 {
+  position: absolute;
+  top: 317px;
+  left: 31px;
+  width: 298px;
+  height: 46px;
+  z-index: 100;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-PasswordTextField_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding-left: 11px;
+  width: 277px;
+  height: 30px;
+  background-color: #EFEFEF;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #666666;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #666666;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #666666;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: #666666;
+  border-radius: 12px 12px 12px 12px;
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  box-shadow: none;
+  text-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-PasswordTextField_1 .valign {
+  vertical-align: middle;
+  line-height: 11.0pt;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-PasswordTextField_1 input {
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  font-family: Roboto-Light,Arial;
+  font-size: 11.0pt;
+  text-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Line_4 {
+  position: absolute;
+  top: 45px;
+  left: 0px;
+  width: 296px;
+  height: 1px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #757575;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-UserName_2 {
+  position: absolute;
+  top: 241px;
+  left: 31px;
+  width: 298px;
+  height: 46px;
+  z-index: 100;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-UsernameTextField_2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding-left: 11px;
+  width: 277px;
+  height: 30px;
+  background-color: #EFEFEF;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #666666;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #666666;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #666666;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: #666666;
+  border-radius: 12px 12px 12px 12px;
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  box-shadow: none;
+  text-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-UsernameTextField_2 .valign {
+  vertical-align: middle;
+  line-height: 11.0pt;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-UsernameTextField_2 input {
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  font-family: Roboto-Light,Arial;
+  font-size: 11.0pt;
+  text-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Line_5 {
+  position: absolute;
+  top: 45px;
+  left: 0px;
+  width: 296px;
+  height: 1px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #757575;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-LoginButton {
+  position: absolute;
+  top: 422px;
+  left: 83px;
+  width: 180px;
+  height: 38px;
+  background-color: #699CFC;
+  background-image: none;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #8AD9D2;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #8AD9D2;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #8AD9D2;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #8AD9D2;
+  border-radius: 14px 14px 14px 14px;
+  padding-top: 7px;
+  padding-right: 7px;
+  padding-bottom: 7px;
+  padding-left: 7px;
+  opacity: 0.69;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: 0px 3px 4px 0px #000000;
+  text-shadow: none;
+  font-size: 15.0pt;
+  font-family: Roboto-Regular,Arial;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-LoginButton .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-LoginButton span {
+  color: #EFEFEF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Regular,Arial;
+  font-size: 15.0pt;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-LoginButton span#rtr-s-LoginButton_0 {
+  color: #EFEFEF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Regular,Arial;
+  font-size: 15.0pt;
+  line-height: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Image_1 {
+  position: absolute;
+  top: 67px;
+  left: 24px;
+  width: 100px;
+  height: 100px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Title {
+  position: absolute;
+  top: 101px;
+  left: 116px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 24.0pt;
+  font-family: Roboto-Bold,Arial;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Title .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Title span {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 24.0pt;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Title span#rtr-s-Title_0 {
+  color: #EFEFEF;
+  text-align: left;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 24.0pt;
+  line-height: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
